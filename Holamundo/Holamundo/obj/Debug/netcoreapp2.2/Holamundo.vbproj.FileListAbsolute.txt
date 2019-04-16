@@ -1,0 +1,11 @@
+C:\Users\Matias-Rozicki\source\repos\normal10as\pg2-s19e101-hola-mundo-ratiasrozicki\Holamundo\Holamundo\bin\Debug\netcoreapp2.2\Holamundo.deps.json
+C:\Users\Matias-Rozicki\source\repos\normal10as\pg2-s19e101-hola-mundo-ratiasrozicki\Holamundo\Holamundo\bin\Debug\netcoreapp2.2\Holamundo.runtimeconfig.json
+C:\Users\Matias-Rozicki\source\repos\normal10as\pg2-s19e101-hola-mundo-ratiasrozicki\Holamundo\Holamundo\bin\Debug\netcoreapp2.2\Holamundo.runtimeconfig.dev.json
+C:\Users\Matias-Rozicki\source\repos\normal10as\pg2-s19e101-hola-mundo-ratiasrozicki\Holamundo\Holamundo\bin\Debug\netcoreapp2.2\Holamundo.dll
+C:\Users\Matias-Rozicki\source\repos\normal10as\pg2-s19e101-hola-mundo-ratiasrozicki\Holamundo\Holamundo\bin\Debug\netcoreapp2.2\Holamundo.pdb
+C:\Users\Matias-Rozicki\source\repos\normal10as\pg2-s19e101-hola-mundo-ratiasrozicki\Holamundo\Holamundo\obj\Debug\netcoreapp2.2\Holamundo.vbprojAssemblyReference.cache
+C:\Users\Matias-Rozicki\source\repos\normal10as\pg2-s19e101-hola-mundo-ratiasrozicki\Holamundo\Holamundo\obj\Debug\netcoreapp2.2\Holamundo.vbproj.CoreCompileInputs.cache
+C:\Users\Matias-Rozicki\source\repos\normal10as\pg2-s19e101-hola-mundo-ratiasrozicki\Holamundo\Holamundo\obj\Debug\netcoreapp2.2\Holamundo.AssemblyInfoInputs.cache
+C:\Users\Matias-Rozicki\source\repos\normal10as\pg2-s19e101-hola-mundo-ratiasrozicki\Holamundo\Holamundo\obj\Debug\netcoreapp2.2\Holamundo.AssemblyInfo.vb
+C:\Users\Matias-Rozicki\source\repos\normal10as\pg2-s19e101-hola-mundo-ratiasrozicki\Holamundo\Holamundo\obj\Debug\netcoreapp2.2\Holamundo.dll
+C:\Users\Matias-Rozicki\source\repos\normal10as\pg2-s19e101-hola-mundo-ratiasrozicki\Holamundo\Holamundo\obj\Debug\netcoreapp2.2\Holamundo.pdb
